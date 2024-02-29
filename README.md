@@ -15,7 +15,6 @@ Run the script, and it will continuously update the display with the current dat
 Feel free to customize the code or adapt it for other purposes. Contributions and feedback are welcome!
 
 Remember to replace this placeholder description with more detailed information about your project. Good luck with your SteelSeries integration! 🚀🎮
-<<<<<<< HEAD
 
 Future updated:
 - Grafical UI for easy use
@@ -24,5 +23,3 @@ Future updated:
 - Guide (How to use with Docker)
 - ...
 
-=======
->>>>>>> 887cbd8c3ead5632aa4d8eb19f6a30f1819a936a
