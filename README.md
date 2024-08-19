@@ -16,7 +16,7 @@ Feel free to customize the code or adapt it for other purposes. Contributions an
 
 Remember to replace this placeholder description with more detailed information about your project. Good luck with your SteelSeries integration! 🚀🎮
 
-Future updates:
+## Future updates:
 - Grafical UI for easy use
 - More customizable features
 - Guide (How to use/install)
